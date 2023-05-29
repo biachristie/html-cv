@@ -10,7 +10,7 @@
 
 O projeto *Curriculum Vitae Online* tem como objetivo montar uma página web réplica de um CV através do uso dos conceitos de HTML e Github Pages.
 
-## Fork do projeto 
+## 🔀 Projeto Base
 
 https://github.com/digitalinnovationone/cv
 
@@ -83,7 +83,7 @@ O GitHub Pages é frequentemente usado por desenvolvedores e equipes de desenvol
 
 Além disso, o GitHub Pages também suporta Jekyll, um gerador de sites estáticos que permite que você crie um site mais complexo com menos esforço, oferecendo recursos como geração automática de páginas e layouts.
 
-## Referências
+## 📚 Referências
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
